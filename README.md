@@ -20,4 +20,4 @@ List of stories implemented
 
 
 ## Gif
-![https://github.com/cop4808-spring-2023-fullstack-web/hw3-tic-tac-toe-js-manuelcastroFau/blob/main/tictactoegif_hw3.gif]  
+![Tic tac Toe](https://github.com/cop4808-spring-2023-fullstack-web/hw3-tic-tac-toe-js-manuelcastroFau/blob/main/tictactoegif_hw3.gif) 
