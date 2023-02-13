@@ -128,9 +128,6 @@ function handleComputerMove() {
         pickComputerMove();
         checkwin();
     }, 500);
-
-   
-
 }
 
 function pickComputerMove() {
